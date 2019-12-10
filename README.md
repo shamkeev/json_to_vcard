@@ -37,7 +37,7 @@ I've created this script using ruby v 2.6. You will need to install json gem. Fo
 gem install json
 
 To run the script, simply type in terminal:
-ruby json_to_vcf.rb
+ruby jsontovcf.rb
 
 The output file is named output.vcf. You can open this file using your smartphone and import into your contacts list.
 
