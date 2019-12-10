@@ -1,0 +1,25 @@
+{
+  "list":[
+    {
+      "user_id": 0,
+      "first_name": "John",
+      "last_name": "Smith",
+      "phone_number": "+99655512345",
+      "date": "2019-05-31T21:58:59"
+     },
+     {
+      "user_id": 0,
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "phone_number": "00996777889900",
+      "date": "2019-05-31T21:58:59"
+     },
+     {
+      "user_id": 0,
+      "first_name": "Steve",
+      "last_name": "Jobs",
+      "phone_number": "0772181111",
+      "date": "2019-05-31T21:58:59"
+     }
+  ]
+}
